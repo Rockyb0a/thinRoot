@@ -5,7 +5,7 @@
 ################################################################################
 
 QUTSELECT_VERSION = 2.4
-QUTSELECT_SITE = $(call github,hzdr,qutselect,$(QUTSELECT_VERSION))
+QUTSELECT_SITE = $(call github,Rockyb0a,qutselect,$(QUTSELECT_VERSION))
 QUTSELECT_LICENSE = LGPL-3.0
 QUTSELECT_LICENSE_FILES = LICENSE
 QUTSELECT_DEPENDENCIES = qt5base
